@@ -1,0 +1,236 @@
+.sign-up-jiahao-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-up-jiahao-sign-up-jiahao {
+  width: 100%;
+  height: 982px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(176, 176, 176, 1);
+}
+.sign-up-jiahao-rectangle21 {
+  top: 134px;
+  left: 475px;
+  width: 562px;
+  height: 805px;
+  position: absolute;
+  border-radius: 25px;
+}
+.sign-up-jiahao-rectangle24 {
+  top: 481px;
+  left: 573px;
+  width: 369px;
+  height: 64px;
+  position: absolute;
+  border-radius: 15px;
+}
+.sign-up-jiahao-rectangle23 {
+  top: 383px;
+  left: 573px;
+  width: 369px;
+  height: 64px;
+  position: absolute;
+  border-radius: 15px;
+}
+.sign-up-jiahao-text {
+  top: 865px;
+  left: 551px;
+  width: 412px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Mplus 1p Bold;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-jiahao-text01 {
+  color: #000000;
+}
+.sign-up-jiahao-text02 {
+  color: #000000;
+}
+.sign-up-jiahao-text03 {
+  color: #479df7;
+}
+.sign-up-jiahao-rectangle22 {
+  top: 578px;
+  left: 626px;
+  width: 260px;
+  height: 60px;
+  position: absolute;
+  border-radius: 35px;
+}
+.sign-up-jiahao-text04 {
+  top: 593px;
+  left: 646px;
+  color: rgba(255, 255, 255, 1);
+  width: 220px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Mplus 1p Bold;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-jiahao-image2 {
+  top: 496px;
+  left: 886px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.sign-up-jiahao-redback-logo8 {
+  top: 231px;
+  left: 708px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.sign-up-jiahao-text06 {
+  top: 180px;
+  left: 484px;
+  color: rgba(0, 0, 0, 1);
+  width: 544px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Abhaya Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-jiahao-text08 {
+  top: 48px;
+  left: 170px;
+  color: rgb(0, 0, 0);
+  width: 328px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Alatsi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-jiahao-redback-logo7 {
+  top: 0px;
+  left: 0px;
+  width: 155px;
+  height: 143px;
+  position: absolute;
+}
+.sign-up-jiahao-rectangle20 {
+  top: 47px;
+  right: 57px;
+  width: 106px;
+  height: 48px;
+  position: absolute;
+  border-radius: 25px;
+}
+.sign-up-jiahao-text09 {
+  top: 49px;
+  color: rgba(0, 0, 0, 1);
+  right: 54px;
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Alatsi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-jiahao-text11 {
+  top: 679px;
+  left: 657px;
+  color: rgba(0, 0, 0, 1);
+  width: 209px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Mplus 1p Bold;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-jiahao-image3 {
+  top: 720px;
+  left: 691px;
+  width: 31px;
+  height: 30px;
+  position: absolute;
+}
+.sign-up-jiahao-image4 {
+  top: 719px;
+  left: 749px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.sign-up-jiahao-image5 {
+  top: 719px;
+  left: 807px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.sign-up-jiahao-text13 {
+  top: 406px;
+  left: 654px;
+  color: rgb(83, 83, 83);
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: ABeeZee;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-jiahao-text14 {
+  top: 502px;
+  left: 654px;
+  color: rgba(83, 83, 83, 1);
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: ABeeZee;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

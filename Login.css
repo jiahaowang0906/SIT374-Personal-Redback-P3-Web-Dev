@@ -1,0 +1,212 @@
+.login-page-jiahao-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-page-jiahao-login-page-jiahao {
+  width: 100%;
+  height: 982px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(177, 177, 177, 1);
+}
+.login-page-jiahao-redback-logo7 {
+  top: 0px;
+  left: 0px;
+  width: 155px;
+  height: 143px;
+  position: absolute;
+}
+.login-page-jiahao-text {
+  top: 15px;
+  left: 136px;
+  color: rgba(0, 0, 0, 1);
+  width: 328px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Alatsi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-jiahao-rectangle20 {
+  top: 38px;
+  left: 1373px;
+  width: 106px;
+  height: 48px;
+  position: absolute;
+  border-radius: 25px;
+}
+.login-page-jiahao-text02 {
+  top: 38px;
+  left: 1371px;
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Alatsi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-jiahao-rectangle21 {
+  top: 128px;
+  left: 475px;
+  width: 562px;
+  height: 805px;
+  position: absolute;
+  border-radius: 25px;
+}
+.login-page-jiahao-rectangle24 {
+  top: 515px;
+  left: 573px;
+  width: 369px;
+  height: 64px;
+  position: absolute;
+  border-radius: 15px;
+}
+.login-page-jiahao-redback-logo8 {
+  top: 231px;
+  left: 708px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.login-page-jiahao-text04 {
+  top: 143px;
+  left: 626px;
+  color: rgba(0, 0, 0, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Abril Fatface;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-jiahao-text06 {
+  top: 535px;
+  left: 706px;
+  color: rgba(83, 83, 83, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: ABeeZee;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-jiahao-text08 {
+  top: 438px;
+  left: 595px;
+  color: rgba(83, 83, 83, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: ABeeZee;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-jiahao-image2 {
+  top: 530px;
+  left: 886px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.login-page-jiahao-rectangle22 {
+  top: 661px;
+  left: 626px;
+  width: 260px;
+  height: 60px;
+  position: absolute;
+  border-radius: 35px;
+}
+.login-page-jiahao-text10 {
+  top: 677px;
+  left: 647px;
+  color: rgba(255, 255, 255, 1);
+  width: 220px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Mplus 1p Bold;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-jiahao-text12 {
+  top: 865px;
+  left: 551px;
+  width: 412px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Mplus 1p Bold;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-jiahao-text13 {
+  color: #000000;
+}
+.login-page-jiahao-text14 {
+  color: #22baec;
+}
+.login-page-jiahao-rectangle23 {
+  top: 417px;
+  left: 573px;
+  width: 369px;
+  height: 64px;
+  position: absolute;
+  border-radius: 15px;
+}
+.login-page-jiahao-text15 {
+  top: 438px;
+  left: 654px;
+  color: rgba(83, 83, 83, 1);
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: ABeeZee;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
